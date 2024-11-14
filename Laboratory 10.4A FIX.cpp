@@ -102,5 +102,5 @@ bool isCardValid(int digits[], int size)
     else
     {
         return false;
-    }
+    } 
 }
